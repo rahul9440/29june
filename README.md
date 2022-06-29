@@ -7,3 +7,7 @@ Changes commited from Remote repository.
 
 
 Another Commit from remote.
+
+## Git pull
+
+This is for pull command.
